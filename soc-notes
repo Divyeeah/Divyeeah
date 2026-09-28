@@ -1,0 +1,18 @@
+What does a SOC do?
+A Security Operations Centre (SOC) monitors, detects, investigates and responds to cybersecurity threats and security incidents.
+- Tier 1 – Alert Triage: Monitor the alert queue, investigate initial alerts, identify and close false positives, document findings, and escalate genuine threats.
+- Tier 2 – Investigation & Response: Handle escalated incidents, perform deeper investigations, correlate logs and events, determine impact, and support containment and remediation.
+- Tier 3 – Advanced Security: Conduct threat hunting, advanced incident response, malware or attacker analysis, improve detection rules, and support security engineering.
+
+Skills needed for a Junior SOC Analyst
+1. Networking Fundamentals – TCP/IP, DNS, HTTP/HTTPS, common ports, protocols, IP addresses and basic network traffic analysis.
+2. Windows Fundamentals – Windows Event Logs, processes, services, authentication events and basic Active Directory concepts.
+3. Linux Fundamentals – File system, permissions, processes, users, logs and basic command-line skills.
+4. Log Analysis & Queries – Analyse SIEM logs and learn query languages such as KQL and SPL.
+5. Alert Triage – Understand alerts, validate suspicious activity, identify false positives and determine severity.
+6. Security Investigation – Build timelines, develop investigation hypotheses, correlate evidence and map activity to the MITRE ATT&CK framework.
+7. Threat Intelligence Enrichment – Investigate IPs, domains, URLs and file hashes using tools such as VirusTotal, AbuseIPDB and WHOIS.
+8. Phishing Analysis – Analyse suspicious emails, headers, URLs, attachments, sender information and indicators of compromise.
+9. Endpoint & EDR Analysis – Understand process trees, parent/child processes and endpoint alerts using tools such as Microsoft Defender or CrowdStrike.
+10. Documentation & Communication – Clearly document investigations, evidence, actions taken and escalation notes.
+11. Optional Scripting – Basic Python or PowerShell can help automate repetitive tasks and analyse security data.
